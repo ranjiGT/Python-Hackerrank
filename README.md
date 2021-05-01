@@ -1,2 +1,2 @@
-# Python_Hackerrank
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+# Python Hackerrank Solutions ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
